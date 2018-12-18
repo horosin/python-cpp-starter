@@ -92,9 +92,9 @@ class BuildExt(build_ext):
 setup(
     name='python_example',
     version=__version__,
-    author='Sylvain Corlay',
-    author_email='sylvain.corlay@gmail.com',
-    url='https://github.com/pybind/python_example',
+    author='Karol Horosin',
+    author_email='karol.horosin@ardigen.com',
+    url='http://gitlab.ardigen.com/karol.horosin/python-cpp-starter',
     description='A test project using pybind11',
     long_description='',
     ext_modules=ext_modules,
